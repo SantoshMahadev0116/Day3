@@ -1,0 +1,5 @@
+*.tf
+*.prop
+demo/
+*.html
+folder1/
